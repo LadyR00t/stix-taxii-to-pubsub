@@ -34,4 +34,4 @@ build/
 .DS_Store
 Thumbs.db
 
-./examples_scripts/
+examples_scripts/
