@@ -33,3 +33,5 @@ build/
 # Archivos específicos del sistema operativo
 .DS_Store
 Thumbs.db
+
+./examples_scripts/
