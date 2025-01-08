@@ -1,0 +1,35 @@
+.examples_scripts/
+.venv/
+.env
+.cursorrules
+.cursorignore
+ 
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Archivos de logs
+*.log
+
+# Archivos de entorno local que no deben publicarse
+.env.local
+.env.*.local
+
+# Archivos específicos del sistema operativo
+.DS_Store
+Thumbs.db
